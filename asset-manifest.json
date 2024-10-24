@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PetCare-Assistant/static/css/main.e27a7087.css",
+    "main.js": "/PetCare-Assistant/static/js/main.4b3dd686.js",
+    "static/js/453.dd2dba19.chunk.js": "/PetCare-Assistant/static/js/453.dd2dba19.chunk.js",
+    "index.html": "/PetCare-Assistant/index.html",
+    "main.e27a7087.css.map": "/PetCare-Assistant/static/css/main.e27a7087.css.map",
+    "main.4b3dd686.js.map": "/PetCare-Assistant/static/js/main.4b3dd686.js.map",
+    "453.dd2dba19.chunk.js.map": "/PetCare-Assistant/static/js/453.dd2dba19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e27a7087.css",
+    "static/js/main.4b3dd686.js"
+  ]
+}
